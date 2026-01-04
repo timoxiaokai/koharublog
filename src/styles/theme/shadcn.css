@@ -10,7 +10,7 @@
     --popover: 0 0% 100%;
     --popover-foreground: 240 10% 3.9%;
 
-    --primary: 351 77% 62%;
+    --primary: 24 100% 32%;
     --primary-foreground: 355.7 100% 97.3%;
 
     --secondary: 240 4.8% 95.9%;
@@ -29,7 +29,7 @@
     --input: 240 5.9% 90%;
     --ring: 346.8 77.2% 49.8%;
 
-    --badge-primary: 351 49% 50%;
+    --badge-primary: 24 100% 32%;
 
     --radius: 0.5rem;
   }
@@ -44,7 +44,7 @@
     --popover: 0 0% 9%;
     --popover-foreground: 0 0% 95%;
 
-    --primary: 350 77% 70%;
+    --primary: 24 100% 32%;
     --primary-foreground: 355.7 100% 97.3%;
 
     --secondary: 240 3.7% 15.9%;
@@ -63,7 +63,7 @@
     --input: 240 3.7% 15.9%;
     --ring: 346.8 77.2% 49.8%;
 
-    --badge-primary: 350 77% 70%;
+    --badge-primary: 24 100% 32%;
 
     --radius: 0.5rem;
   }

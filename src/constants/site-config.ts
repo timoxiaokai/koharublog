@@ -66,16 +66,16 @@ type SocialConfig = {
 
 // https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/config/
 export const siteConfig: SiteConfig = {
-  title: '余弦の博客', // 网站名称
-  alternate: 'cosine', // 网站名称
-  subtitle: 'WA 的一声就哭了', // 副标题
-  name: 'cos', // 站点作者简称
+  title: '胡桃の博客', // 网站名称
+  alternate: 'Walnut', // 网站名称
+  subtitle: '往生堂堂主', // 副标题
+  name: '胡桃', // 站点作者简称
   description: '一个基于 Astro 的现代化博客主题', // 站点简介（一段话）
-  avatar: '/img/avatar.webp', // 站点头像 - 请替换 public/img/avatar.webp
+  avatar: '/img/auth-hutao.png', // 站点头像 - 请替换 public/img/avatar.webp
   showLogo: true, // 是否显示 svg logo 否则用 title
-  author: 'Author', // 作者名称 - 请修改为你的名字
-  site: 'https://koharu.cosine.ren', // 站点线上域名 - 部署后请修改为你的域名
-  startYear: 2024, // 站点创建年份
+  author: '胡桃', // 作者名称 - 请修改为你的名字
+  site: 'https://樱花.top', // 站点线上域名 - 部署后请修改为你的域名
+  startYear: 2025, // 站点创建年份
   keywords: ['博客', 'Astro', '技术', '前端'], // SEO 关键词
   featuredCategories: [
     {
@@ -125,41 +125,40 @@ export const siteConfig: SiteConfig = {
 // 图标查询: https://icon-sets.iconify.design/ri/
 export const socialConfig: SocialConfig = {
   github: {
-    url: 'https://github.com/your-username', // 替换为你的 GitHub 链接
+    url: 'https://github.com/timoxiaokai', // 替换为你的 GitHub 链接
     icon: 'ri:github-fill',
     color: '#191717',
   },
   email: {
-    url: 'mailto:your@email.com', // 替换为你的邮箱
+    url: 'mn960820@gmail.com', // 替换为你的邮箱
     icon: 'ri:mail-line',
-    color: '#55acd5',
+    color: '#ff6600',
   },
   rss: {
     url: '/rss.xml',
     icon: 'ri:rss-line',
     color: '#ff6600',
   },
-  // 以下是更多可选的社交平台配置示例，取消注释并修改即可启用：
-  // twitter: {
-  //   url: 'https://x.com/your-handle',
-  //   icon: 'ri:twitter-fill',
-  //   color: '#4b9ae4',
-  // },
-  // bilibili: {
-  //   url: 'https://space.bilibili.com/your-id',
-  //   icon: 'ri:bilibili-fill',
-  //   color: '#da708a',
-  // },
+  twitter: {
+    url: 'https://x.com/hntimor', //推特
+    icon: 'ri:twitter-fill',
+    color: '#4b9ae4',
+  },
+  bilibili: {
+    url: 'https://space.bilibili.com/84061885', //B站
+    icon: 'ri:bilibili-fill',
+    color: '#da708a',
+  },
   // zhihu: {
   //   url: 'https://www.zhihu.com/people/your-id',
   //   icon: 'ri:zhihu-fill',
   //   color: '#1e88e5',
   // },
-  // music: {
-  //   url: 'https://music.163.com/#/user/home?id=your-id',
-  //   icon: 'ri:netease-cloud-music-line',
-  //   color: '#e60026',
-  // },
+  music: {
+    url: 'https://music.163.com/#/user/home?id=1292486722', //网易云音乐
+    icon: 'ri:netease-cloud-music-line',
+    color: '#e60026',
+  },
 };
 
 const { title, alternate, subtitle } = siteConfig;

@@ -1,9 +1,9 @@
 ---
-title: 示例周刊 Vol.1
+title: 周刊 Vol.1
 link: weekly-example-1
 catalog: true
 date: 2024-01-04 00:00:00
-description: 这是一期示例周刊，展示周刊功能的使用方式。周刊适合发布定期更新的系列内容。
+description: 这是一期周刊，展示周刊功能的使用方式。周刊适合发布定期更新的系列内容。
 tags:
   - 周刊
 categories:
@@ -32,7 +32,7 @@ featuredSeries: {
   fullName: '我的技术周刊',
   description: '周刊描述...',
   cover: '/img/weekly_header.webp',
-  enabled: true,         // 设为 false 可关闭
+  enabled: true         // 设为 false 可关闭
 }
 ```
 
@@ -52,10 +52,10 @@ featuredSeries: {
 
 ### 工具推荐
 
-| 工具   | 用途     | 链接       |
-| ------ | -------- | ---------- |
+| 工具     | 用途   | 链接         |
+|--------|------|------------|
 | Biome  | 代码检查 | biome.dev  |
-| Motion | 动画库   | motion.dev |
+| Motion | 动画库  | motion.dev |
 
 ### 本周学习
 

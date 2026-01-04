@@ -1,4 +1,5 @@
 ---
+import Comment from '@components/comment/Comment.astro';
 import HomeSider from '@components/layout/HomeSider.astro';
 import Cover from '@components/ui/cover/Cover.astro';
 import { CONTENT_PADDING } from '@constants/layout';
@@ -25,7 +26,8 @@ const { frontmatter } = Astro.props;
       <div class=`prose md:prose-sm dark:prose-invert`>
         <slot />
       </div>
-      <Remark />
+      <!--   <Remark />--><!--Remark评论组件-->
+      <Comment /><!--twikoo评论组件-->
     </div>
   </TwoColumnLayout>
 </Layout>

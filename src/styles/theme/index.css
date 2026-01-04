@@ -8,8 +8,8 @@
   /* shoka migrate */
   --box-bg-shadow: rgba(0, 0, 0, 0.1);
   --grey-1-a5: rgba(253, 253, 253, 0.5);
-  --gradient-shoka-button-start: #ed6ea0;
-  --gradient-shoka-button-end: #ec8c69;
+  --gradient-shoka-button-start: rgba(255,168,115);
+  --gradient-shoka-button-end: rgba(151,100,68, 0.1);
   --gradient-shoka-button: linear-gradient(
     to right,
     var(--gradient-shoka-button-start) 0,
@@ -32,8 +32,8 @@
   --box-bg-shadow: rgba(0, 0, 0, 0.5);
   --grey-1-a5: rgba(34, 34, 34, 0.5);
 
-  --gradient-shoka-button-start: #f18bb3cc;
-  --gradient-shoka-button-end: #f0a387cc;
+  --gradient-shoka-button-start: rgba(255,168,115);
+  --gradient-shoka-button-end: rgba(151,100,68, 0.1);
   --gradient-shoka-button: linear-gradient(
     to right,
     var(--gradient-shoka-button-start) 0,

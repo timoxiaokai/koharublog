@@ -6,6 +6,7 @@ import Cover from '@components/ui/cover/Cover.astro';
 import { CONTENT_PADDING } from '@constants/layout';
 import Layout from '@layouts/Layout.astro';
 import TwoColumnLayout from '@layouts/TwoColumnLayout.astro';
+import Comment from '@/components/comment/Comment.astro';
 import Remark from '@/components/common/Remark.astro';
 
 const title = '友情链接 | cosの博客';
@@ -24,8 +25,11 @@ const description = '我的小伙伴们,欢迎加友链~';
       </div>
       <div class="mb-4">
         <FriendRequestForm client:visible />
-        <Remark />
+     <!--   <Remark />--><!--Remark评论组件-->
+        <Comment /><!--twikoo评论组件-->
       </div>
     </div>
   </TwoColumnLayout>
 </Layout>
+
+<Comment />

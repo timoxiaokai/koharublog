@@ -1,4 +1,5 @@
 ---
+import Comment from '@components/comment/Comment.astro';
 import CustomContent from '@components/common/CustomContent.astro';
 import Remark from '@components/common/Remark.astro';
 import HomeSider from '@components/layout/HomeSider.astro';
@@ -129,7 +130,8 @@ if (post.data.description) {
       <article class="prose md:prose-sm dark:prose-invert">
         <CustomContent Content={Content} />
       </article>
-      <Remark />
+      <!--   <Remark />--><!--Remark评论组件-->
+      <Comment /><!--twikoo评论组件-->
     </div>
   </TwoColumnLayout>
 </Layout>
