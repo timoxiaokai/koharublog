@@ -2,10 +2,9 @@
 title: 完美解码PureCodec - 全能视频播放器软件评测
 date: 2025-12-31
 description: "完美解码PureCodec是一款功能强大的全能视频播放器，支持多种视频格式解码，提供优质的播放体验。本文详细介绍其功能特点、使用方法以及下载安装指南。"
-image: "https://img.ddooo.com/uppic/220308/202203081700476746.jpg"
+cover: "https://img.ddooo.com/uppic/220308/202203081700476746.jpg"
 tags: ["软件评测", "视频播放器", "多媒体", "工具软件"]
 category: 软件推荐
-draft: false
 ---
 
 ## 什么是完美解码 PureCodec？

@@ -1,6 +1,6 @@
 ---
 title: "Apache OpenOffice：20年经典，轻量级开源办公首选"
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1350&q=80"
+cover: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1350&q=80"
 date: 2026-01-03
 category: 软件推荐
 tags: ["OpenOffice", "Apache", "开源办公", "Office 替代品", "跨平台", "文档编辑"]
@@ -16,7 +16,7 @@ description: 150MB轻量级开源办公套件，6大组件完整覆盖办公需�
 **Apache OpenOffice** - 开源办公软件的鼻祖，20 年品质保证。
 
 ### 🎯 六大核心组件
-| 组件          | 功能   | 对标 Office   |
+| 组件          | 功能   | 对标 Office  |
 |-------------|------|------------|
 | **Writer**  | 文字处理 | Word       |
 | **Calc**    | 电子表格 | Excel      |

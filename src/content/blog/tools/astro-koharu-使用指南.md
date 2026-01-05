@@ -9,7 +9,7 @@ tags:
   - 博客
   - 教程
 categories:
-  - 工具
+  - 笔记
 ---
 
 一份完整的 astro-koharu 博客系统使用指南，帮助你快速上手并充分利用所有功能特性。
@@ -637,11 +637,11 @@ const MODEL_NAME = 'Snowflake/snowflake-arctic-embed-m-v2.0';
 
 **其他可选模型对比：**
 
-| 模型                                      | 大小  | 维度 | 优势               |
-| ----------------------------------------- | ----- | ---- | ------------------ |
-| `Snowflake/snowflake-arctic-embed-m-v2.0` | ~90MB | 768  | 质量高，中英文均衡 |
-| `sentence-transformers/all-MiniLM-L6-v2`  | ~23MB | 384  | 轻量快速           |
-| `BAAI/bge-small-zh-v1.5`                  | ~95MB | 512  | 中文专用           |
+| 模型                                        | 大小    | 维度  | 优势        |
+|-------------------------------------------|-------|-----|-----------|
+| `Snowflake/snowflake-arctic-embed-m-v2.0` | ~90MB | 768 | 质量高，中英文均衡 |
+| `sentence-transformers/all-MiniLM-L6-v2`  | ~23MB | 384 | 轻量快速      |
+| `BAAI/bge-small-zh-v1.5`                  | ~95MB | 512 | 中文专用      |
 
 **注意事项：**
 
@@ -849,8 +849,8 @@ export const announcements: Announcement[] = [
 
 **公告类型样式：**
 
-| 类型        | 说明     | 默认颜色 |
-| ----------- | -------- | -------- |
+| 类型          | 说明   | 默认颜色         |
+|-------------|------|--------------|
 | `info`      | 信息通知 | 蓝色 (#3b82f6) |
 | `warning`   | 警告提示 | 黄色 (#eab308) |
 | `success`   | 成功消息 | 绿色 (#22c55e) |

@@ -1,7 +1,6 @@
 ---
 title: "Shotcut 深度体验：开源、跨平台、无水印的剪辑神器"
 date: 2026-01-01
-image: "api"
 category: 软件测评
 tags: ["Shotcut", "开源", "视频剪辑", "跨平台", "无水印", "FFmpeg"]
 description: 零预算也能剪出大片感：Shotcut 在 Windows / macOS / Linux 上表现如何？功能、性能、插件、避坑一篇看懂。

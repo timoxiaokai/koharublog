@@ -1,6 +1,6 @@
 ---
 title: "PhotoDemon：轻量级开源图像处理神器，PS 轻量替代方案"
-image: "https://zycs-img-j8y.pages.dev/v2/MY1Gh2U.png"
+cover: "https://zycs-img-j8y.pages.dev/v2/MY1Gh2U.png"
 date: 2026-01-02
 category: 软件推荐
 tags: ["PhotoDemon", "图像处理", "开源", "PS 替代品", "轻量级", "照片编辑"]

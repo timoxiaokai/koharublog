@@ -76,7 +76,7 @@ export const siteConfig: SiteConfig = {
   author: '胡桃', // 作者名称 - 请修改为你的名字
   site: 'https://樱花.top', // 站点线上域名 - 部署后请修改为你的域名
   startYear: 2025, // 站点创建年份
-  keywords: ['博客', 'Astro', '技术', '前端'], // SEO 关键词
+  keywords: ['博客', '工具', '技术', '软件'], // SEO 关键词
   featuredCategories: [
     {
       link: 'life',
@@ -149,11 +149,6 @@ export const socialConfig: SocialConfig = {
     icon: 'ri:bilibili-fill',
     color: '#da708a',
   },
-  // zhihu: {
-  //   url: 'https://www.zhihu.com/people/your-id',
-  //   icon: 'ri:zhihu-fill',
-  //   color: '#1e88e5',
-  // },
   music: {
     url: 'https://music.163.com/#/user/home?id=1292486722', //网易云音乐
     icon: 'ri:netease-cloud-music-line',

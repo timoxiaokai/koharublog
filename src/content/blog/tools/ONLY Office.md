@@ -1,6 +1,5 @@
 ---
 title: "ONLY Office：不只是「Office」的在线协作新选择"
-image: "api"
 date: 2026-01-01
 category: 软件推荐
 tags: ["ONLY Office", "在线协作", "开源", "Office 替代品", "文档编辑"]
